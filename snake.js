@@ -22,7 +22,6 @@ function createBoard() {
         }
     }
 }
-
 function updateSnake() {
     const newHead = { x: snake[0].x + direction.x, y: snake[0].y + direction.y };
 
