@@ -1,3 +1,4 @@
+// javascript code for snake game
 const gameBoard = document.getElementById('game-board');
 const boardSize = 20; // 20x20 grid
 let snake = [{ x: 10, y: 10 }]; // Start the snake in the middle
